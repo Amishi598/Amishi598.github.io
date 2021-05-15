@@ -5,15 +5,15 @@
 #### I love painting and photoshop.
 
 
-- 🌱 I’m currently learning photoshop
-- 👯 I’m looking to collaborate on poster competition
-- 💬 Ask me about among us gaming, roblox gaming
-- 📫 How to reach me: amishi598.github.io
-- 😄 Pronouns: Her
-- ⚡ Fun fact: I looove gaming, watching youtube 
+- 🌱 **I’m currently learning photoshop**
+- 👯 **I’m looking to collaborate on poster competition**
+- 💬 **Ask me about among us gaming, roblox gaming**
+- 📫 **How to reach me: amishi598.github.io**
+- 😄 **Pronouns: Her**
+- ⚡ **Fun fact: I looove gaming, watching youtube** 
 
-[Email me](mailto:amishi.vishwakarma2010@gmail.com)
-
+[![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amishi.vishwakarma2010@gmail.com)
+[![WhatsApp Me](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917011811125)
 
 
 
